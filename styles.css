@@ -1,0 +1,24 @@
+.topnav a{
+
+}
+
+
+.logo{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 200px;
+    margin-bottom: auto;
+    width: 30%;
+    display: block;
+}
+
+.bar-form{
+    margin-left: 450px;
+    margin-right: auto;
+    margin-top: 30px;
+
+}
+
+.search-bar{
+    width: 400px;
+}
